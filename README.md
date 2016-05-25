@@ -3,9 +3,9 @@ Don't let opendata.dc.gov fool you, DC open data lives in many corners of the in
 
 **DC Open Data**
 ---------------------------------------------------
-| Topics   | Agency   | Link                          | Summary                                             | Data Type     |
-| -------- | --------:|------------------------------:|----------------------------------------------------:|--------------:|
-|Multiple  |Multiple | http://opendata.dc.gov/        |DC's official open data catalog.                     |API; multiple  |	|Education |OSSE     |http://osse.dc.gov/service/data |school enrollment audits                             |XLSX 	        |
-|Education |PCSB     |https://data.dcpcsb.org/        |charter school performance, enrollment, lottery, etc.|API; multiple  |
-|Education |DCPS     |http://www.dcpsdatacenter.com   |DCPS school budgets, enrollment (budgeted for)       |XLSX           |
-|Education |DCPS	   |http://dcps.dc.gov/service/dcps-downloadable-data-sets|enrollment audits, graduation rates, Comprehensive Assessment System scores, SAT scores|	XLSX|
+| Topics   | Agency   | Link                          | Summary                                             | Data Type     |Notes|
+| -------- | --------:|------------------------------:|----------------------------------------------------:|--------------:|----:|
+|Multiple  |Multiple | http://opendata.dc.gov/        |DC's official open data catalog.                    |API; multiple  ||	|Education |OSSE     |http://osse.dc.gov/service/data |school enrollment audits                             |XLSX 	       ||
+|Education |PCSB     |https://data.dcpcsb.org/        |charter school performance, enrollment, lottery, etc.|API; multiple||
+|Education |DCPS     |http://www.dcpsdatacenter.com   |DCPS school budgets, enrollment (budgeted for)       |XLSX         ||
+|Education |DCPS	   |http://dcps.dc.gov/service/dcps-downloadable-data-sets|enrollment audits, graduation rates, Comprehensive Assessment System scores, SAT scores|	XLSX||
