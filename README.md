@@ -1,5 +1,5 @@
 # ManyHomesofDCData
-Don't let opendata.dc.gov fool you, DC open data lives in many corners of the internet. Here's an (in)complete list.
+DC open data lives in many corners of the internet. Here's an (in)complete list.
 
 Please contribute to the list! You can do so by:
 * Submitting an issue
@@ -31,6 +31,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Transportation|[Permits issued by DDOT for use of public space](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx)|searchable database||
 |Food|ABRA|[Liquor License Holders](http://abra.dc.gov/page/abc-licensees)|PDF|Replaced every 6ish months;have two previous copies|
 |Food|DOH|[rolling last 3 years food & hygiene inspections](http://dc.healthinspections.us/webadmin/dhd_431/web/)|HTML| have a rudimentary scrapper; opendatadc.org has history 2010-2015|
+|Crime|MPDC|[Crime 2000-14](https://github.com/UrbanInstitute/occ-public-safety/blob/master/data/dccrime2000-2014_cleaned.csv)|csv||
 |Crime|MPDC|[DC Crime Map](http://crimemap.dc.gov/)|csv|searchable database, annual datasets at opendata.dc.gov|
 |Crime|MPDC|[DC Crime Stats](http://mpdc.dc.gov/page/statistics-and-data)|html, pdf|citywide crime + traffic fatalities|
 |City |DHR|[DC Employee Salaries](http://dchr.dc.gov/public-employee-salary-information)|PDF||
