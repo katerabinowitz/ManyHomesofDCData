@@ -36,9 +36,10 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Crime|MPDC|[DC Crime Stats](http://mpdc.dc.gov/page/statistics-and-data)|html, pdf|citywide crime + traffic fatalities|
 |City |DHR|[DC Employee Salaries](http://dchr.dc.gov/public-employee-salary-information)|PDF||
 |City||[annual FOIA Report Statistics](http://os.dc.gov/page/annual-reports)|PDF|annual FOIA request counts by agency|
-|Budget|OCFO|[7 years of DC budget visualized](https://openbudget.dc.gov/transparency#/)|HTML|maybe if you create an account you can download the raw data? If not, pretty embarrassing.
+|Building|DCRA|[Certificate of Occupancy](https://github.com/katerabinowitz/ManyHomesofDCData/tree/master/Certificate%20of%20Occupancy%20Data_Hackathon)|XLSX|released during GS hackathons| 
+|Budget|OCFO|[7 years of DC budget visualized](https://openbudget.dc.gov/transparency#/)|HTML|maybe if you create an account you can download the raw data?|
 |Budget|OCFO|[DC Capital Improvement Plan, 2010-15](https://github.com/cmgiven/capital-improvement)|XML/JSON|scraped by Chris Given!|
 |Budget|DMPED|[Great Streets Grantees](https://drive.google.com/file/d/0B7P0PQCxjXdsajJIa3c4ampiOEU/view)|csv||
 |||[311 Requests](https://dc311.secure.force.com/)|arcGIS|Current 311 requests on the last 30 days map. 2010-13 on opendatadc.org|
-|Environment|[Air Quality Data](http://www.mwcog.org/environment/air/data/)|HTML||
-|Environment|[Water Quality Data](https://stormcentral.waterlog.com/public/dcwater)|HTML|River, not drinking, water|
+|Environment|DOEE|[Air Quality Data](http://www.mwcog.org/environment/air/data/)|HTML||
+|Environment|DOEE|[Water Quality Data](https://stormcentral.waterlog.com/public/dcwater)|HTML|River, not drinking, water|
