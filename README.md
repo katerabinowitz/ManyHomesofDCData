@@ -6,6 +6,8 @@ Please contribute to the list! You can do so by:
 * Making a pull request
 * E-mailing me at datalensdc@gmail.com
 
+Or, if you there's particular data you want but don't know where it lives, submit an issue or e-mail me! We can find or FOIA it.
+
 **DC Open Data**
 ---------------------------------------------------
 | Topics   | Agency   |  Summary (and hyperlink)                            | Data Type     |Notes|
