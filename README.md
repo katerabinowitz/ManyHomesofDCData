@@ -14,6 +14,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 | -------- | --------:|----------------------------------------------------:|--------------:|----:|
 |Multiple|Multiple|[official open data site](http://opendata.dc.gov/)|API; multiple|mostly geo but also 3+ years of crime, ticketing, crashes and business licenses|
 |Multiple|Multiple|[Code for DC open data catalog](https://www.opendatadc.org/)|API; multiple|scraped/FOIA data, dated. We're reviving it!|
+|Education|OSSE|[Best single resource on school data](http://www.learndc.org/)|html, csv|school profiles and performance.Benjamin Robinson created [R package for data](https://github.com/benjaminrobinson/LearnDC)|
 |Education|OSSE|[school enrollment audits](http://osse.dc.gov/service/data)|XLSX||
 |Education|PCSB|[Charter performance, enrollment, lotteries](https://data.dcpcsb.org/)|API; multiple||
 |Education|DCPS|[DCPS school budgets,budgeted enrollment](http://www.dcpsdatacenter.com/index.html)|XLSX||
@@ -27,8 +28,16 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Transportation|DDOT|[DC Bike Count data](https://github.com/HackShopDC/October29-VisionZeroData/tree/master/BikeCountData)|XLS||
 |Transportation|Capital Bikeshare|[station feed, trip history, member surveys](https://www.capitalbikeshare.com/system-data)|XML,csv, pdf||
 |Transportation|Arlington County|[automated bike counts in VA, MD, and DC](http://www.bikearlington.com/pages/biking-in-arlington/counting-bikes-to-plan-for-bikes/counter-dashboard/)|XML|have scraper, need to productionalize|
+|Transportation|[Permits issued by DDOT for use of public space](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx)|searchable database||
 |Food|ABRA|[Liquor License Holders](http://abra.dc.gov/page/abc-licensees)|PDF|Replaced every 6ish months;have two previous copies|
 |Food|DOH|[rolling last 3 years food & hygiene inspections](http://dc.healthinspections.us/webadmin/dhd_431/web/)|HTML| have a rudimentary scrapper; opendatadc.org has history 2010-2015|
-|||[311 Requests](https://dc311.secure.force.com/)|arcGIS|Current 311 requests on the last 30 days map. 2010-13 on opendatadc.org|
+|Crime|MPDC|[DC Crime Map](http://crimemap.dc.gov/)|csv|searchable database, annual datasets at opendata.dc.gov|
+|Crime|MPDC|[DC Crime Stats](http://mpdc.dc.gov/page/statistics-and-data)|html, pdf|citywide crime + traffic fatalities|
 |City |DHR|[DC Employee Salaries](http://dchr.dc.gov/public-employee-salary-information)|PDF||
+|City||[annual FOIA Report Statistics](http://os.dc.gov/page/annual-reports)|PDF|annual FOIA request counts by agency|
+|Budget|OCFO|[7 years of DC budget visualized](https://openbudget.dc.gov/transparency#/)|HTML|maybe if you create an account you can download the raw data? If not, pretty embarrassing.
 |Budget|OCFO|[DC Capital Improvement Plan, 2010-15](https://github.com/cmgiven/capital-improvement)|XML/JSON|scraped by Chris Given!|
+|Budget|DMPED|[Great Streets Grantees](https://drive.google.com/file/d/0B7P0PQCxjXdsajJIa3c4ampiOEU/view)|csv||
+|||[311 Requests](https://dc311.secure.force.com/)|arcGIS|Current 311 requests on the last 30 days map. 2010-13 on opendatadc.org|
+|Environment|[Air Quality Data](http://www.mwcog.org/environment/air/data/)|HTML||
+|Environment|[Water Quality Data](https://stormcentral.waterlog.com/public/dcwater)|HTML|River, not drinking, water|
