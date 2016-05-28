@@ -45,3 +45,10 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Budget|DMPED|[Great Streets Grantees](https://drive.google.com/file/d/0B7P0PQCxjXdsajJIa3c4ampiOEU/view)|csv||
 |Environment|DOEE|[Air Quality Data](http://www.mwcog.org/environment/air/data/)|HTML||
 |Environment|DOEE|[Water Quality Data](https://stormcentral.waterlog.com/public/dcwater)|HTML|River, not drinking, water|
+
+**Federal Open Data**
+---------------------------------------------------
+| Topics   | Agency   |  Summary (and hyperlink)                            | Data Type     |Notes|
+| -------- | --------:|----------------------------------------------------:|--------------:|----:|
+|Science|NIH|[ExPORTER: abstracts of all funded grants](http://exporter.nih.gov/ExPORTER_Catalog.aspx?sid=3&index=1)|XML,CSV|Patents,publications and clinical studies too, but these are incomplete|
+
