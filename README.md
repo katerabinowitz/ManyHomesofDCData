@@ -30,7 +30,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Transportation|DDOT|[DC Bike Count data](https://github.com/HackShopDC/October29-VisionZeroData/tree/master/BikeCountData)|XLS|2002-15 person-led bike counts|
 |Transportation|Capital Bikeshare|[station feed, trip history, member surveys](https://www.capitalbikeshare.com/system-data)|XML,csv, pdf||
 |Transportation|Arlington County|[automated bike counts in VA, MD, and DC](http://www.bikearlington.com/pages/biking-in-arlington/counting-bikes-to-plan-for-bikes/counter-dashboard/)|XML|have scraper, need to productionalize|
-|Transportation|[Permits issued by DDOT for use of public space](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx)|searchable database||
+|Transportation|DDOT|[Permits issued by DDOT for use of public space](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx)|searchable database||
 |Food|ABRA|[Liquor License Holders](http://abra.dc.gov/page/abc-licensees)|PDF|Replaced every 6ish months;have two previous copies|
 |Food|DOH|[rolling last 3 years food & hygiene inspections](http://dc.healthinspections.us/webadmin/dhd_431/web/)|HTML| have rudimentary scrapper; opendatadc.org has history 2010-2015|
 |Crime|MPDC|[Crime 2000-14](https://github.com/UrbanInstitute/occ-public-safety/blob/master/data/dccrime2000-2014_cleaned.csv)|csv||
@@ -41,6 +41,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |City|Multiple|[311 Requests](https://dc311.secure.force.com/)|multiple|Current 311 requests on the last 30 days map. opendata.dc.org has last 30 days datasets for request types. 2010-13 on opendatadc.org|
 |City|Council|[Legislative information](http://lims.dccouncil.us/api)|JSON|information about bills, resolutions, contracts and reports submitted to the Council|
 |Building|DCRA|[Certificate of Occupancy](https://github.com/katerabinowitz/ManyHomesofDCData/tree/master/Certificate%20of%20Occupancy%20Data_Hackathon)|XLSX|released during GS hackathons| 
+|Building(ish)||[AirBnB](http://insideairbnb.com/get-the-data.html)|CSV|scraped October 3, 2015|
 |Budget|OCFO|[7 years of DC budget visualized](https://openbudget.dc.gov/transparency#/)|HTML|maybe if you create an account you can download the raw data?|
 |Budget|OCFO|[DC Capital Improvement Plan, 2010-15](https://github.com/cmgiven/capital-improvement)|XML/JSON|scraped by Chris Given!|
 |Budget|DMPED|[Great Streets Grantees](https://drive.google.com/file/d/0B7P0PQCxjXdsajJIa3c4ampiOEU/view)|csv||
