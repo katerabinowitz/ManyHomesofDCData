@@ -31,9 +31,9 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Transportation|Capital Bikeshare|[station feed, trip history, member surveys](https://www.capitalbikeshare.com/system-data)|XML,csv, pdf|||
 |Transportation|Arlington County|[automated bike counts in VA, MD, and DC](http://www.bikearlington.com/pages/biking-in-arlington/counting-bikes-to-plan-for-bikes/counter-dashboard/)|XML|have scraper, need to productionalize||
 |Transportation|DDOT|[Permits issued by DDOT for use of public space](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx)|searchable database|||
-|Food|ABRA|[Liquor License Holders](http://abra.dc.gov/page/abc-licensees)|PDF|Replaced every 6ish months;have two previous copies||
+|Food|ABRA|[Liquor License Holders](http://abra.dc.gov/page/abc-licensees)|PDF|Replaced every 6ish months;have two previous copies|X|
 |Food|DOH|[rolling last 3 years food & hygiene inspections](http://dc.healthinspections.us/webadmin/dhd_431/web/)|HTML| have rudimentary scrapper; opendatadc.org has history 2010-2015||
-|Crime|MPDC|[Crime 2000-14](https://github.com/UrbanInstitute/occ-public-safety/blob/master/data/dccrime2000-2014_cleaned.csv)|csv|||
+|Crime|MPDC|[Crime 2000-14](https://github.com/UrbanInstitute/occ-public-safety/blob/master/data/dccrime2000-2014_cleaned.csv)|csv||X|
 |Crime|MPDC|[DC Crime Map](http://crimemap.dc.gov/)|csv|searchable database, annual datasets at opendata.dc.gov||
 |Crime|MPDC|[DC Crime Stats](http://mpdc.dc.gov/page/statistics-and-data)|html, pdf|citywide crime + traffic fatalities||
 |City |DHR|[DC Employee Salaries](http://dchr.dc.gov/public-employee-salary-information)|PDF||X|
@@ -44,7 +44,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Building(ish)||[AirBnB](http://insideairbnb.com/get-the-data.html)|CSV|scraped October 3, 2015||
 |Budget|OCFO|[7 years of DC budget visualized](https://openbudget.dc.gov/transparency#/)|HTML|maybe if you create an account you can download the raw data?||
 |Budget|OCFO|[DC Capital Improvement Plan, 2010-15](https://github.com/cmgiven/capital-improvement)|XML/JSON|scraped by Chris Given!||
-|Budget|DMPED|[Great Streets Grantees](https://drive.google.com/file/d/0B7P0PQCxjXdsajJIa3c4ampiOEU/view)|csv|||
+|Budget|DMPED|[Great Streets Grantees](https://drive.google.com/file/d/0B7P0PQCxjXdsajJIa3c4ampiOEU/view)|csv||X|
 |Environment|DOEE|[Air Quality Data](http://www.mwcog.org/environment/air/data/)|HTML|||
 |Environment|DOEE|[Water Quality Data](https://stormcentral.waterlog.com/public/dcwater)|HTML|River, not drinking, water||
 
