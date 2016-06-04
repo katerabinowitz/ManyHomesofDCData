@@ -37,7 +37,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Crime|MPDC|[DC Crime Map](http://crimemap.dc.gov/)|csv|searchable database, annual datasets at opendata.dc.gov||
 |Crime|MPDC|[DC Crime Stats](http://mpdc.dc.gov/page/statistics-and-data)|html, pdf|citywide crime + traffic fatalities||
 |City |DHR|[DC Employee Salaries](http://dchr.dc.gov/public-employee-salary-information)|PDF||X|
-|City||[annual FOIA Report Statistics](http://os.dc.gov/page/annual-reports)|PDF|annual FOIA request counts by agency||
+|City||[annual FOIA Report Statistics](http://os.dc.gov/page/annual-reports)|PDF|annual FOIA request counts by agency|X|
 |City|Multiple|[311 Requests](https://dc311.secure.force.com/)|multiple|Current 311 requests on the last 30 days map. opendata.dc.org has last 30 days datasets for request types. 2010-13 on opendatadc.org||
 |City|Council|[Legislative information](http://lims.dccouncil.us/api)|JSON|information about bills, resolutions, contracts and reports submitted to the Council||
 |Building|DCRA|[Certificate of Occupancy](https://github.com/katerabinowitz/ManyHomesofDCData/tree/master/Certificate%20of%20Occupancy%20Data_Hackathon)|XLSX|released during GS hackathons|| 
