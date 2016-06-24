@@ -31,6 +31,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Transportation|Capital Bikeshare|[station feed, trip history, member surveys](https://www.capitalbikeshare.com/system-data)|XML,csv, pdf|||
 |Transportation|Arlington County|[automated bike counts in VA, MD, and DC](http://www.bikearlington.com/pages/biking-in-arlington/counting-bikes-to-plan-for-bikes/counter-dashboard/)|XML|have scraper, need to productionalize||
 |Transportation|DDOT|[Permits issued by DDOT for use of public space](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx)|searchable database|||
+|Transportation|Uber API|[Uber surge rates and wait times](https://github.com/comp-journalism/2016-03-wapo-uber)|csv|covers 276 DC spots every 3 minutes for a month||
 |Food|ABRA|[Liquor License Holders](http://abra.dc.gov/page/abc-licensees)|PDF|Replaced every 6ish months;have two previous copies|X|
 |Food|DOH|[rolling last 3 years food & hygiene inspections](http://dc.healthinspections.us/webadmin/dhd_431/web/)|HTML| have rudimentary scrapper; opendatadc.org has history 2010-2015||
 |Crime|MPDC|[Crime 2000-14](https://github.com/UrbanInstitute/occ-public-safety/blob/master/data/dccrime2000-2014_cleaned.csv)|csv||X|
