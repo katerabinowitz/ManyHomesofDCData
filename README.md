@@ -47,6 +47,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Budget|OCFO|[7 years of DC budget visualized](https://openbudget.dc.gov/transparency#/)|HTML|maybe if you create an account you can download the raw data?||
 |Budget|OCFO|[DC Capital Improvement Plan, 2010-15](https://github.com/cmgiven/capital-improvement)|XML/JSON|scraped by Chris Given!||
 |Budget|DMPED|[Great Streets Grantees](https://drive.google.com/file/d/0B7P0PQCxjXdsajJIa3c4ampiOEU/view)|csv||X|
+|Elections|DC BOEE|[Election Results](https://www.dcboee.org/election_info/election_results/)|CSV/PDF/XML||X|
 |Environment|DOEE|[Air Quality Data](http://www.mwcog.org/environment/air/data/)|HTML|||
 |Environment|DOEE|[Water Quality Data](https://stormcentral.waterlog.com/public/dcwater)|HTML|River, not drinking, water||
 
