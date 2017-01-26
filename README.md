@@ -6,7 +6,7 @@ Please contribute to the list! You can do so by:
 * Making a pull request
 * E-mailing me at datalensdc@gmail.com
 
-Or, if you there's particular data you want but don't know where it lives, submit an issue or e-mail me! We can find or FOIA it.
+Or, if there's particular data you want but don't know where it lives, submit an issue or [e-mail](mailto:datalensdc@gmail.com) me! We can find or FOIA it.
 
 **DC Open Data**
 ---------------------------------------------------
@@ -14,6 +14,8 @@ Or, if you there's particular data you want but don't know where it lives, submi
 | -------- | --------:|----------------------------------------------------:|--------------:|----:|------:|
 |Multiple|Multiple|[official open data site](http://opendata.dc.gov/)|API; multiple|mostly geo. highlights include 3+ years of crime, ticketing, crashes and business licenses||
 |Multiple|Multiple|[Code for DC open data catalog](https://www.opendatadc.org/)|API; multiple|scraped/FOIA data, slightly dated. We're reviving it!||
+|Multiple|Multiple|[Search Open Data ArcGIS for "Washington, DC"](http://opendata.arcgis.com/datasets?q=Washington%2C%20DC)|API; Multiple|mostly geo||
+|Multiple|DC GIS|[Google Earth for DC Open Directory](http://geospatial.dcgis.dc.gov/DC_kmz/)|KML/KMZ|Networked Links, only work in Google Earth currently||
 |Geography|Multiple|[All the Maps](https://github.com/benbalter/dc-maps)|GeoJSON|by Ben Balter||
 |Demographics|Multiple|[Demographics at many different geo levels](http://www.neighborhoodinfodc.org/)|HTML/XLS|population,well-being,housing,foreclosures,schools||
 |Education|OSSE|[Best single resource on school data](http://www.learndc.org/)|html, csv|school profiles and performance.Benjamin Robinson created [R package for data](https://github.com/benjaminrobinson/LearnDC)||
@@ -32,6 +34,7 @@ Or, if you there's particular data you want but don't know where it lives, submi
 |Transportation|Arlington County|[automated bike counts in VA, MD, and DC](http://www.bikearlington.com/pages/biking-in-arlington/counting-bikes-to-plan-for-bikes/counter-dashboard/)|XML|have scraper, need to productionalize||
 |Transportation|DDOT|[Permits issued by DDOT for use of public space](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx)|searchable database|||
 |Transportation|Uber API|[Uber surge rates and wait times](https://github.com/comp-journalism/2016-03-wapo-uber)|csv|covers 276 DC spots every 3 minutes for a month||
+|Transportation|TPB Regional Transportation Data Clearinghouse (RTDC)|[ArcGIS Open Data Portal](http://rtdc.mwcog.opendata.arcgis.com/)|API; multiple|||
 |Food|ABRA/Yelp|[Nightlife and Year Opened](https://github.com/katerabinowitz/DC-FoodandDrink/blob/master/nightlifeGeoChanges/dataOut/ABC%20Licensees%20with%20Open%20Year.csv)|csv|ABRA Liquor License data augmented w year open for bars, clubs, restaurants||
 |Food|ABRA|[Liquor License Holders](http://abra.dc.gov/page/abc-licensees)|PDF|Replaced every 6ish months;have two previous copies|X|
 |Food|DOH|[rolling last 3 years food & hygiene inspections](http://dc.healthinspections.us/webadmin/dhd_431/web/)|HTML| have rudimentary scrapper; opendatadc.org has history 2010-2015||
