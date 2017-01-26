@@ -14,6 +14,7 @@ Or, if there's particular data you want but don't know where it lives, submit an
 | -------- | --------:|----------------------------------------------------:|--------------:|----:|------:|
 |Multiple|Multiple|[official open data site](http://opendata.dc.gov/)|API; multiple|mostly geo. highlights include 3+ years of crime, ticketing, crashes and business licenses||
 |Multiple|Multiple|[Code for DC open data catalog](https://www.opendatadc.org/)|API; multiple|scraped/FOIA data, slightly dated. We're reviving it!||
+|Multiple|Multiple|[Search Open Data ArcGIS for "Washington, DC"](http://opendata.arcgis.com/datasets?q=Washington%2C%20DC)|API; Multiple|mostly geo||
 |Geography|Multiple|[All the Maps](https://github.com/benbalter/dc-maps)|GeoJSON|by Ben Balter||
 |Demographics|Multiple|[Demographics at many different geo levels](http://www.neighborhoodinfodc.org/)|HTML/XLS|population,well-being,housing,foreclosures,schools||
 |Education|OSSE|[Best single resource on school data](http://www.learndc.org/)|html, csv|school profiles and performance.Benjamin Robinson created [R package for data](https://github.com/benjaminrobinson/LearnDC)||
